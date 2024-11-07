@@ -6,6 +6,6 @@ setup(
     version="0.1",
     license="3-clause BSD",
     url='https://github.com/victorolet/tljh-user',
-    entry_points={"tljh": ["simple = tljh_user"]},
+    entry_points={"tljh": ["user = tljh_user"]},
     py_modules=["tljh_user"],
 )
